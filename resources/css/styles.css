@@ -1,0 +1,46 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+  color: white;
+  font-family: verdana, sans-serif;
+  text-align: center;
+}
+
+.title {
+  font-size: 3.125rem;
+  font-weight: normal;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 1rem;
+}
+
+.video {
+  margin-top: 1rem;
+}
+
+.subtitle {
+  font-size: 2.625rem;
+  font-weight: 300;
+}
+
+.text {
+  font-size: 1.313rem;
+  color: gray;
+}
+
+.smartphone-icon {
+  margin-top: 2rem;
+}
+
+.footer {
+  width: 100%;
+}
+
+.footer-text {
+  text-align: right;
+}
+
